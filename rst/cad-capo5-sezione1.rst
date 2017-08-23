@@ -28,8 +28,7 @@ Art. 50 - Disponibilità dei dati delle pubbliche amministrazioni
    pubblica amministrazione da parte dei sistemi informatici di altre
    amministrazioni l'amministrazione titolare dei dati predispone, gestisce ed
    eroga i servizi informatici allo scopo necessari, secondo le regole tecniche
-   del sistema pubblico di connettività di cui al decreto legislativo 28
-   febbraio 2005, n. 42.
+   del sistema pubblico di connettività di cui al presente decreto.
 
 Art. 51 - Sicurezza dei dati
 ............................
