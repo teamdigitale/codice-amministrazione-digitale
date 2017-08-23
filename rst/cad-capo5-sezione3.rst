@@ -46,7 +46,7 @@ Art. 64 - Modalità di accesso ai servizi erogati in rete dalle pubbliche ammini
    per l'innovazione e le tecnologie, di concerto con il Ministro per la
    funzione pubblica e d'intesa con la Conferenza unificata di cui all'articolo
    8 del `decreto legislativo 28 agosto 1997, n. 281`_, è fissata la data,
-   comunque non successiva al 31 dicembre 2008, a decorrere dalla quale non è
+   comunque non successiva al 31 dicembre 2009, a decorrere dalla quale non è
    più consentito l'accesso ai servizi erogati in rete dalle pubbliche
    amministrazioni, con strumenti diversi dalla *carta d'identità elettronica*
    e dalla *carta nazionale dei servizi*. 
