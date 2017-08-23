@@ -1,9 +1,7 @@
-Capo VIII - Disposizioni transitorie finali e abrogazioni
+Capo IX - Disposizioni transitorie finali e abrogazioni
 *********************************************************
 
-.. _art72:
-
-Art. 72 - Norme transitorie per la firma digitale 
+Art. 88 - Norme transitorie per la firma digitale 
 .................................................
  
 1. I documenti sottoscritti con *firma digitale* basata su certificati
@@ -12,7 +10,7 @@ Art. 72 - Norme transitorie per la firma digitale
    equivalenti ai documenti sottoscritti con firma digitale basata su
    certificati rilasciati da *certificatori accreditati*. 
 
-Art. 73 - Aggiornamenti
+Art. 89 - Aggiornamenti
 .......................
 
 1. La Presidenza del Consiglio dei Ministri adotta gli opportuni atti di
@@ -21,13 +19,13 @@ Art. 73 - Aggiornamenti
    esclusivamente mediante la modifica o l'integrazione delle disposizioni
    contenute nel presente codice.
 
-Art. 74 - Oneri finanziari
+Art. 90 - Oneri finanziari
 ..........................
 
 1. All'attuazione del presente decreto si provvede nell'ambito delle risorse
    previste a legislazione vigente.
  
-Art. 75 - Abrogazioni
+Art. 91 - Abrogazioni
 .....................
 
 1. Dalla data di entrata in vigore del presente testo unico sono abrogati:
@@ -57,7 +55,7 @@ Art. 75 - Abrogazioni
    (Testo A), si intendono riferite anche al decreto del Presidente della
    Repubblica `28 dicembre 2000, n. 444`_ (Testo C).
  
-Art. 76 - Entrata in vigore del codice
+Art. 92 - Entrata in vigore del codice
 ......................................
 
 1. Le disposizioni del presente codice entrano in vigore a decorrere dal 1°
