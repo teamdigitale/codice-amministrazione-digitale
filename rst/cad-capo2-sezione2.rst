@@ -269,14 +269,13 @@ Art. 31 - Vigilanza sull'attività di certificazione
 Art. 32 - Obblighi del titolare e del certificatore
 ...................................................
 
-1. Il *titolare* del certificato di firma è tenuto ad adottare tutte le misure
-   organizzative e tecniche idonee ad evitare danno ad altri ed a custodire e
-   utilizzare il dispositivo di firma con la diligenza del buon padre di
-   famiglia.
+1. Il *titolare* del certificato di firma è tenuto ad assicurare la custodia 
+   del dispositivo di firma e ad adottare tutte le misure
+   organizzative e tecniche idonee ad evitare danno ad altri; è altresì tenuto
+   ad utilizzare personalmente il dispositivo di firma. 
 
 2. Il *certificatore* è tenuto ad adottare tutte le misure organizzative e
-   tecniche idonee ad evitare danno ad altri, ivi incluso il *titolare* del
-   certificato.
+   tecniche idonee ad evitare danno a terzi.
  
 3. Il *certificatore* che rilascia, ai sensi dell\\':ref:`articolo 19<art19>`,
    *certificati qualificati* deve inoltre:
@@ -315,7 +314,7 @@ Art. 32 - Obblighi del titolare e del certificatore
       di revoca e di sospensione dei *certificati elettronici*;
    j) tenere registrazione, anche elettronica, di tutte le informazioni
       relative al certificato qualificato dal momento della sua emissione
-      almeno per dieci anni anche al fine di fornire prova della certificazione
+      almeno per venti anni anche al fine di fornire prova della certificazione
       in eventuali procedimenti giudiziari;
    k) non copiare, nè conservare, le *chiavi private* di firma del soggetto cui
       il *certificatore* ha fornito il servizio di certificazione;
