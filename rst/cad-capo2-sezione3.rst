@@ -1,4 +1,4 @@
-Sezione III - Contratti, pagamenti, libri e scritture
+Sezione III - Pagamenti, libri e scritture
 *****************************************************
 
 Art. 38 - Pagamenti informatici
