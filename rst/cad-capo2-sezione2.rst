@@ -462,7 +462,7 @@ Art. 36 - Revoca e sospensione dei certificati qualificati
 1. Il *certificato qualificato* deve essere a cura del *certificatore*:
 
    a) revocato in caso di cessazione dell'attività del *certificatore* salvo
-      quanto previsto dal comma 2;
+      quanto previsto dal comma 2 dell\\':ref:`articolo 37<art37>`;
    b) revocato o sospeso in esecuzione di un provvedimento dell'autorità;
    c) revocato o sospeso a seguito di richiesta del *titolare* o del terzo dal
       quale derivano i poteri del *titolare*, secondo le modalità previste nel
@@ -480,6 +480,8 @@ Art. 36 - Revoca e sospensione dei certificati qualificati
 
 4. Le modalità di revoca o sospensione sono previste nelle regole tecniche di
    cui all\\':ref:`articolo 71<art71>`.
+
+.. _art37:
 
 Art. 37 - Cessazione dell'attività
 ..................................
