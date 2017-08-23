@@ -61,6 +61,8 @@ Art. 53 - Caratteristiche dei siti
    usabilità e reperibilità, anche da parte delle persone disabili, completezza
    di informazione, chiarezza di linguaggio, affidabilità, semplicità di
    consultazione, qualità, omogeneità ed interoperabilità.
+   Sono in particolare resi facilmente reperibili e consultabili i dati di cui 
+   all\\':ref:`articolo 54<art54>`.
  
 2. Il *CNIPA* svolge funzioni consultive e di coordinamento sulla realizzazione
    e modificazione dei siti delle amministrazioni centrali.
@@ -68,6 +70,8 @@ Art. 53 - Caratteristiche dei siti
 3. Lo Stato promuove intese ed azioni comuni con le regioni e le autonomie
    locali affinché realizzino siti istituzionali con le caratteristiche di cui
    al comma 1.
+
+.. _art54:
  
 Art. 54 - Contenuto dei siti delle pubbliche amministrazioni 
 ............................................................
