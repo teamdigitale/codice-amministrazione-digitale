@@ -133,20 +133,22 @@ Art. 23 - Copie di atti e documenti informatici
    da parte di colui che li spedisce o rilascia, una *firma digitale* o altra
    *firma elettronica qualificata*.
 
-4. Le copie su supporto informatico di *documenti originali non unici* formati
-   in origine su supporto cartaceo o, comunque, non informatico sostituiscono,
+4. Le copie su supporto informatico di qualsiasi tipologia di documenti
+   analogici originali, formati in origine su supporto cartaceo o su altro
+   supporto non informatico, sostituiscono 
    ad ogni effetto di legge, gli originali da cui sono tratte se la loro
-   conformità all'originale è assicurata dal responsabile della conservazione
+   conformità all'originale è assicurata da chi lo detiene 
    mediante l'utilizzo della propria *firma digitale* e nel rispetto delle
    regole tecniche di cui all\\':ref:`articolo 71<art71>`.
-   
-5. Le copie su supporto informatico di documenti, originali unici, formati in
-   origine su supporto cartaceo o, comunque, non informatico sostituiscono, ad
-   ogni effetto di legge, gli originali da cui sono tratte se la loro
-   conformità all'originale è autenticata da un notaio o da altro pubblico
-   ufficiale a ciò autorizzato, con dichiarazione allegata al documento
-   informatico e asseverata secondo le regole tecniche stabilite ai sensi
-   dell\\':ref:`articolo 71<art71>`.
+
+5. Con decreto del Presidente del Consiglio dei Ministri possono essere
+   individuate particolari tipologie di documenti analogici originali unici per
+   le quali, in ragione di esigenze di natura pubblicistica, permane l'obbligo
+   della conservazione dell'originale analogico oppure, in caso di
+   conservazione ottica sostitutiva, la loro conformità all'originale deve
+   essere autenticata da un notaio o da altro pubblico ufficiale a ciò
+   autorizzato con dichiarazione da questi firmata digitalmente ed allegata al
+   documento informatico.
 
 6. La spedizione o il rilascio di copie di atti e documenti di cui al comma 3,
    esonera dalla produzione e dalla esibizione dell'originale formato su
