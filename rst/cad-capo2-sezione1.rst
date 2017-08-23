@@ -76,8 +76,8 @@ Art. 21 - Valore probatorio del *documento informatico* sottoscritto
    definite con uno o più decreti del Ministro dell'economia e delle finanze,
    sentito il Ministro delegato per l'innovazione e le tecnologie. 
 
-Art. 22 - Documenti informatici delle pubbliche amministrazioni
-...............................................................
+Art. 22 - Documenti informatici originali e copie.  Formazione e conservazione.
+...............................................................................
 
 1. Gli atti formati con strumenti informatici, i *dati* e i *documenti
    informatici* delle pubbliche amministrazioni costituiscono informazione
