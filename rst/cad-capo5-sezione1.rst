@@ -1,6 +1,8 @@
 Sezione I - Dati delle pubbliche amministrazioni
 ************************************************
 
+.. _art50:
+
 Art. 50 - Disponibilità dei dati delle pubbliche amministrazioni
 ................................................................
 
