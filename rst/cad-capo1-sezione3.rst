@@ -203,6 +203,10 @@ Art. 17 - Strutture per l'organizzazione, l'innovazione e le tecnologie
       informatico, firma digitale e mandato informatico, e delle norme in
       materia di sicurezza, accessibilità e fruibilità.
 
+1-bis. 
+   Ciascun Ministero istituisce un unico centro di competenza, salva la
+   facoltà delle Agenzie di istituire un proprio centro.
+
 Art. 18 - Conferenza permanente per l'innovazione tecnologica
 .............................................................
 
