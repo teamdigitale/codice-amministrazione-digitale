@@ -144,8 +144,8 @@ Art. 55 - Consultazione delle iniziative normative del Governo
    modalità di partecipazione del cittadino alla consultazione gratuita in via
    telematica. 
 
-Art. 56 - Dati identificativi delle questioni pendenti dinanzi al giudice amministrativo e contabile
-....................................................................................................
+Art. 56 - Dati identificativi delle questioni pendenti dinanzi autorità giudiziaria di ogni ordine e grado 
+..........................................................................................................
 
 1. I dati identificativi delle questioni pendenti dinanzi al giudice
    amministrativo e contabile sono resi accessibili a chi vi abbia interesse
@@ -157,6 +157,13 @@ Art. 56 - Dati identificativi delle questioni pendenti dinanzi al giudice ammini
    inserite nel sistema informativo interno e sul sito istituzionale della rete
    Internet, osservando le cautele previste dalla normativa in materia di
    tutela dei dati personali.
+
+2-bis.
+   I dati identificativi delle questioni pendenti, le sentenze e le altre
+   decisioni depositate in cancelleria o segreteria dell'autorità giudiziaria
+   di ogni ordine e grado sono, comunque, rese accessibili ai sensi
+   dell'articolo 51 del codice in materia di protezione dei dati personali
+   approvato con `decreto legislativo n. 196 del 2003`_.
 
 Art. 57 - Moduli e formulari 
 ............................
@@ -178,3 +185,4 @@ Art. 57 - Moduli e formulari
 .. _`28 dicembre 2000, n. 445`: http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:2000-12-28;445!vig=
 .. _`7 agosto 1990, n. 241`: http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1990-08-07;241!vig=
 .. _`11 febbraio 2005, n. 68`: http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:2005-02-11;68!vig=
+.. _`decreto legislativo n. 196 del 2003`: http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-06-30;196!vig=
