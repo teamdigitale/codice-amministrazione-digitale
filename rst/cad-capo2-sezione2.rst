@@ -252,7 +252,7 @@ Art. 30 - Responsabilità del certificatore
 3. Il *certificato qualificato* può contenere limiti d'uso ovvero un valore
    limite per i negozi per i quali può essere usato il certificato stesso,
    purché i limiti d'uso o il valore limite siano riconoscibili da parte dei
-   terzi e siano chiaramente evidenziati nel processo di verifica della firma
+   terzi e siano chiaramente evidenziati nel certificato
    secondo quanto previsto dalle regole tecniche di cui all\\':ref:`articolo
    71<art71>`. Il *certificatore* non e' responsabile dei danni derivanti
    dall'uso di un *certificato qualificato* che ecceda i limiti posti dallo
