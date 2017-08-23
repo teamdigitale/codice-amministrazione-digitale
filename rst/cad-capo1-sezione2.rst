@@ -96,7 +96,7 @@ Art. 10 - Sportelli per le attività produttive
    riferimento, tenendo presenti le migliori esperienze realizzate che
    garantiscano l'interoperabilità delle soluzioni individuate.
 4. Lo Stato realizza, nell'ambito di quanto previsto dal sistema pubblico di
-   connettività di cui al `decreto legislativo 28 febbraio 2005, n. 42`_, un
+   connettività di cui al presente decreto, un
    sistema informatizzato per le imprese relativo ai procedimenti di competenza
    delle amministrazioni centrali anche ai fini di quanto previsto 
    all\\':ref:`articolo 11<art11>`.
