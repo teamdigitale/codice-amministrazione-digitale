@@ -118,6 +118,13 @@ Art. 23 - Copie di atti e documenti informatici
    riprodotti su diversi tipi di supporto, sono validi a tutti gli effetti di
    legge, se conformi alle vigenti regole tecniche.
 
+2-bis.
+   Le copie su supporto cartaceo di *documento informatico*, anche sottoscritto
+   con *firma elettronica qualificata* o con *firma digitale*, sostituiscono ad
+   ogni effetto di legge l'originale da cui sono tratte se la loro conformità
+   all'originale in tutte le sue componenti è attestata da un pubblico
+   ufficiale a ciò autorizzato.
+
 3. I *documenti informatici* contenenti copia o riproduzione di atti pubblici,
    scritture private e documenti in genere, compresi gli atti e documenti
    amministrativi di ogni tipo, spediti o rilasciati dai depositari pubblici
