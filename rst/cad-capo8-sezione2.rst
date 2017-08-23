@@ -83,6 +83,27 @@ Art. 78 - Compiti delle pubbliche amministrazioni nel Sistema pubblico di connet
    automatizzati, di cui all'articolo 10, comma 1, dello stesso decreto
    legislativo. 
 
+2-bis. 
+   Le pubbliche amministrazioni centrali e periferiche di cui 
+   all\\':ref:`articolo 1<art1>`, comma 1, lettera z), del presente codice,
+   inclusi gli istituti e le scuole di ogni ordine e grado, le istituzioni
+   educative e le istituzioni universitarie, nei limiti di cui all'articolo 1,
+   comma 449, secondo periodo, della `legge 27 dicembre 2006, n. 296`_, sono
+   tenute, a decorrere dal 1° gennaio 2008 e comunque a partire dalla scadenza
+   dei contratti relativi ai servizi di fonia in corso alla data predetta ad
+   utilizzare i servizi *Voce tramite protocollo Internet* (VoIP) previsti dal
+   *Sistema pubblico di connettività* o da analoghe convenzioni stipulate da
+   CONSIP. 
+   
+2-ter. 
+   Il *CNIPA* effettua azioni di monitoraggio e verifica del rispetto delle
+   disposizioni di cui al comma 2-bis. 
+   
+2-quater. 
+   Il mancato adeguamento alle disposizioni di cui al comma 2-bis comporta la
+   riduzione, nell'esercizio finanziario successivo, del 30 per cento delle
+   risorse stanziate nell'anno in corso per spese di telefonia
+
 Art. 79 - Commissione di coordinamento del Sistema pubblico di connettività
 ...........................................................................
 
@@ -292,4 +313,5 @@ Art. 84 - Migrazione della Rete unitaria della pubblica amministrazione
 .. _`decreto legislativo 12 febbraio 1993, n. 39`: http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-02-12;39!vig=
 .. _`decreto legislativo 28 agosto 1997, n. 281`: http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1997-08-28;281!vig=
 .. _`decreto legislativo 1° agosto 2003, n. 259`: http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-08-01;259!vig=
+.. _`legge 27 dicembre 2006, n. 296`: http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2006-12-27;296!vig=
 

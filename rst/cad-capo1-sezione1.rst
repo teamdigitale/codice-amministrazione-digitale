@@ -61,6 +61,8 @@ Il Presidente della Repubblica
 
 Emana il seguente decreto legislativo: 
 
+.. _art1:
+
 Art. 1 - Definizioni
 ....................
  
