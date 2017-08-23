@@ -11,4 +11,5 @@ Decreto Legislativo 7 marzo 2005, n. 82 - Codice dell'amministrazione digitale
    cad-capo5.rst
    cad-capo6.rst
    cad-capo7.rst
+   cad-capo8.rst
    cad-capo9.rst
