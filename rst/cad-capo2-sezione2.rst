@@ -132,8 +132,10 @@ Art. 28 - Certificati qualificati
       possesso del *titolare*;
    f) indicazione del termine iniziale e finale del periodo di validità del
       certificato;
-   g) *firma elettronica qualificata* del *certificatore* che ha rilasciato il
-       certificato.
+   g) *firma elettronica* del *certificatore* che ha rilasciato il
+      certificato, realizzata in conformità alle regole tecniche ed idonea a
+      garantire l'integrità e la veridicità di tutte le informazioni
+      contenute nel certificato medesimo.
 
 2. In aggiunta alle informazioni di cui al comma 1, fatta salva la possibilità
    di utilizzare uno pseudonimo, per i *titolari* residenti all'estero cui non
