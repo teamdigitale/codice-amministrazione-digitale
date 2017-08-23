@@ -86,6 +86,14 @@ Art. 14 - Rapporti tra Stato, Regioni e autonomie locali
    previene il divario tecnologico tra amministrazioni di diversa dimensione e
    collocazione territoriale.
 
+3-bis.
+   Ai fini di quanto previsto ai commi 1, 2 e 3, è istituita senza nuovi o
+   maggiori oneri per la finanza pubblica, presso la Conferenza unificata,
+   previa delibera della medesima che ne definisce la composizione e le
+   specifiche competenze, una Commissione permanente per l'innovazione
+   tecnologica nelle regioni e negli enti locali con funzioni istruttorie e
+   consultive.
+
 Art. 15 - Digitalizzazione e riorganizzazione
 .............................................
 
