@@ -370,8 +370,10 @@ Art. 34 - Norme particolari per le pubbliche amministrazioni e per altri soggett
       categorie di terzi, pubblici o privati. I certificati qualificati
       rilasciati in favore di categorie di terzi possono essere utilizzati
       soltanto nei rapporti con l'Amministrazione certificante, al di fuori dei
-      quali sono privi di ogni effetto; con decreto del Presidente del
-      Consiglio dei Ministri, su proposta dei Ministri per la funzione pubblica
+      quali sono privi di ogni effetto ad esclusione di quelli rilasciati da
+      collegi e ordini professionali e relativi organi agli iscritti nei
+      rispettivi albi e registri; con decreto del Presidente del Consiglio dei
+      Ministri, su proposta dei Ministri per la funzione pubblica
       e per l'innovazione e le tecnologie e dei Ministri interessati, di
       concerto con il Ministro dell'economia e delle finanze, sono definite le
       categorie di terzi e le caratteristiche dei certificati qualificati; 
@@ -382,7 +384,7 @@ Art. 34 - Norme particolari per le pubbliche amministrazioni e per altri soggett
 2. Per la formazione, gestione e sottoscrizione di *documenti informatici*
    aventi rilevanza esclusivamente interna ciascuna amministrazione può
    adottare, nella propria autonomia organizzativa, regole diverse da quelle
-   contenute nelle regole tecniche di cui all\\':ref:`articolo 72<art72>`. 
+   contenute nelle regole tecniche di cui all\\':ref:`articolo 71<art71>`. 
  
 3. Le regole tecniche concernenti la qualifica di pubblico ufficiale,
    l'appartenenza ad ordini o collegi professionali, l'iscrizione ad albi o il
