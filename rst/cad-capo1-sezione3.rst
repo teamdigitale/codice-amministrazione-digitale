@@ -11,6 +11,19 @@ Art. 12 - Norme generali per l'uso delle tecnologie dell'informazione e delle co
    per la realizzazione degli obiettivi di efficienza, efficacia, economicità,
    imparzialità, trasparenza, semplificazione e partecipazione.
 
+1-bis.
+   Gli organi di governo nell'esercizio delle funzioni di indirizzo politico ed
+   in particolare nell'emanazione delle direttive generali per l'attività
+   amministrativa e per la gestione ai sensi del comma 1 dell'articolo 14 del
+   `decreto legislativo n. 165 del 2001`_, promuovono l'attuazione delle
+   disposizioni del presente decreto. 
+
+1-ter. 
+   I dirigenti rispondono dell'osservanza ed attuazione delle disposizioni di
+   cui al presente decreto ai sensi e nei limiti degli articoli 21 e 55 del
+   `decreto legislativo 30 marzo 2001, n. 165`, ferme restando le eventuali
+   responsabilità penali, civili e contabili previste dalle norme vigenti.
+
 2. Le pubbliche amministrazioni adottano le tecnologie dell'informazione e
    della comunicazione nei rapporti interni, tra le diverse amministrazioni e
    tra queste e i privati, con misure informatiche, tecnologiche, e procedurali
@@ -32,6 +45,12 @@ Art. 12 - Norme generali per l'uso delle tecnologie dell'informazione e delle co
    informazioni, nonché l'interoperabilità dei sistemi e l'integrazione dei
    processi di servizio fra le diverse amministrazioni nel rispetto delle
    regole tecniche stabilite ai sensi dell\\':ref:`articolo 71<art71>`.
+
+5-bis.
+   Le pubbliche amministrazioni implementano e consolidano i processi di
+   informatizzazione in atto, ivi compresi quelli riguardanti l'erogazione in
+   via telematica di servizi a cittadini ed imprese anche con l'intervento di
+   privati.
 
 Art. 13 - Formazione informatica dei dipendenti pubblici 
 ........................................................
@@ -231,6 +250,7 @@ Art. 19 - Banca dati per la legislazione in materia di pubblico impiego
    sensi dell'articolo 21, comma 3, della `legge 29 luglio 2003, n. 229`_. 
 
 .. _`Costituzione`: http://www.quirinale.it/qrnw/costituzione/costituzione.html
+.. _`decreto legislativo n. 165 del 2001`:
 .. _`decreto legislativo 30 marzo 2001, n. 165`: http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001-03-30;165!vig=
 .. _`decreto legislativo 12 febbraio 1993, n. 39`: http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-02-12;39!vig=
 .. _`legge 9 gennaio 2004, n. 4`: http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2004-01-09;4!vig=
