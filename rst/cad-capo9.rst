@@ -54,6 +54,12 @@ Art. 91 - Abrogazioni
    51; del decreto del Presidente della Repubblica `28 dicembre 2000, n. 445`_
    (Testo A), si intendono riferite anche al decreto del Presidente della
    Repubblica `28 dicembre 2000, n. 444`_ (Testo C).
+
+3-bis.
+   L'articolo 15, comma 1, della `legge 15 marzo 1997, n. 59`_, è abrogato. 
+
+3-ter. 
+   Il `decreto legislativo 28 febbraio 2005, n. 42`_, è abrogato.
  
 Art. 92 - Entrata in vigore del codice
 ......................................
@@ -67,3 +73,5 @@ Art. 92 - Entrata in vigore del codice
 .. _`legge 27 dicembre 2002, n. 289`: http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2002-12-27;289!vig=
 .. _`legge 16 gennaio 2003, n. 3`: http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2003-01-16;3!vig=
 .. _`legge 29 luglio 2003, n. 229`: http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2003-07-29;229!vig=
+.. _`legge 15 marzo 1997, n. 59`: http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-03-15;59!vig=
+.. _`decreto legislativo 28 febbraio 2005, n. 42`: http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-02-28;42!vig=
