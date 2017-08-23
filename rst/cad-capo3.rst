@@ -45,6 +45,38 @@ Art. 41 - Procedimento e fascicolo informatico
    comunica agli interessati le modalità per esercitare in via telematica i
    diritti di cui all'articolo 10 della citata `legge 7 agosto 1990, n. 241`_.
 
+2-bis.
+   Il fascicolo informatico è realizzato garantendo la possibilità di essere
+   direttamente consultato ed alimentato da tutte le amministrazioni coinvolte
+   nel procedimento. Le regole per la costituzione e l'utilizzo del fascicolo
+   sono conformi ai principi di una corretta gestione documentale ed alla
+   disciplina della formazione, gestione, conservazione e trasmissione del
+   documento informatico, ivi comprese le regole concernenti il protocollo
+   informatico ed il sistema pubblico di connettività, e comunque rispettano i
+   criteri dell'interoperabilità e della cooperazione applicativa; regole
+   tecniche specifiche possono essere dettate ai sensi 
+   dell\\':ref:`articolo 71<art71>`, di concerto con il Ministro della 
+   funzione pubblica. 
+   
+2-ter. Il fascicolo informatico reca l'indicazione: 
+
+   a) dell'amministrazione titolare del procedimento, che cura la costituzione
+      e la gestione del fascicolo medesimo;
+   b) delle altre amministrazioni partecipanti; 
+   c) del responsabile del procedimento; 
+   d) dell'oggetto del procedimento; 
+   e) dell'elenco dei documenti contenuti, salvo quanto disposto dal comma 
+      2-quater. 
+      
+2-quater. 
+   Il fascicolo informatico può contenere aree a cui hanno accesso solo
+   l'amministrazione titolare e gli altri soggetti da essa individuati; esso è
+   formato in modo da garantire la corretta collocazione, la facile
+   reperibilità e la collegabilit`, in relazione al contenuto ed alle finalit`,
+   dei singoli documenti; è inoltre costituito in modo da garantire l'esercizio
+   in via telematica dei diritti previsti dalla citata `legge n. 241 del
+   1990`_.
+
 3. Ai sensi degli articoli da 14 a 14-quinquies della `legge 7 agosto 1990, n.
    241`_, previo accordo tra le amministrazioni coinvolte, la conferenza dei
    servizi è convocata e svolta avvalendosi degli strumenti informatici
@@ -105,6 +137,7 @@ Art. 44 - Requisiti per la conservazione dei documenti informatici
       tecnico pubblicato in allegato B a tale decreto.
 
 .. _`legge 23 agosto 1988, n. 400`: http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400!vig=
+.. _`legge n. 241 del 1990`:
 .. _`legge 7 agosto 1990, n. 241`: http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-07;241!vig=
 .. _`decreto legislativo 22 gennaio 2004, n. 42`: http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2004-01-22;42!vig=
 .. _`28 dicembre 2000, n. 445`: http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:2000-12-28;445!vig=
