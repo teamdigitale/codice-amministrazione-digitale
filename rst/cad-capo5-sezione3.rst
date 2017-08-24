@@ -71,6 +71,13 @@ Art. 65 - Istanze e dichiarazioni presentate alle pubbliche amministrazioni per 
       limiti di quanto stabilito da ciascuna amministrazione ai sensi della
       normativa vigente e fermo restando il disposto dell\\':ref:`articolo
       64<art64>`, comma 3. 
+
+   c-bis) 
+      ovvero quando l'autore è identificato dal sistema informatico attraverso
+      le credenziali di accesso relative all'utenza personale di posta
+      elettronica certificata di cui all'articolo 16-bis del `decreto-legge 29
+      novembre 2008, n. 185`_, convertito con modificazioni, dalla `legge 28
+      gennaio 2009, n. 2`_.
  
 2. Le istanze e le dichiarazioni inviate o compilate sul sito 
    secondo le modalità previste dal comma
@@ -92,3 +99,5 @@ Art. 65 - Istanze e dichiarazioni presentate alle pubbliche amministrazioni per 
 .. _`decreto legislativo 28 agosto 1997, n. 281`: http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1997-08-28;281!vig=
 .. _`28 dicembre 2000, n. 445`: http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:2000-12-28;445!vig=
 .. _`2 marzo 2004, n. 117`: http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:2004-03-02;117!vig=
+.. _`decreto-legge 29 novembre 2008, n. 185`: http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-11-29;185!vig=
+.. _`legge 28 gennaio 2009, n. 2`: http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-01-28;2!vig=
