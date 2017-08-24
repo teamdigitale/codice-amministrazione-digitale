@@ -44,6 +44,8 @@ Art. 59 - Dati territoriali
 5. Ai sensi dell'articolo 17, comma 3, della `legge 23 agosto 1988, n. 400`_,
    con uno o più decreti sulla proposta del Presidente del Consiglio dei
    Ministri o, per sua delega, del Ministro per l'innovazione e le tecnologie,
+   di concerto con il Ministro dell'ambiente e della tutela del territorio e
+   del mare, per i profili relativi ai dati ambientali,
    sentito il Comitato per le regole tecniche sui *dati territoriali* delle
    pubbliche amministrazioni, e sentita la Conferenza unificata di cui
    all'articolo 8 del `decreto legislativo 28 luglio 1998, n. 281`_, sono
