@@ -15,8 +15,8 @@ Art. 3 - Diritto all'uso delle tecnologie
    nel rispetto della loro autonomia normativa. 
 
 1-ter. 
-   Le controversie concernenti l'esercizio del diritto di cui al comma 1
-   sono devolute alla giurisdizione esclusiva del giudice amministrativo.
+   La tutela giurisdizionale davanti al giudice amministrativo è disciplinata
+   dal codice del processo amministrativo.
 
 Art. 4 - Partecipazione al procedimento amministrativo informatico 
 ..................................................................
