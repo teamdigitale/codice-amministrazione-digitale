@@ -49,6 +49,11 @@ Art. 6 - Utilizzo della posta elettronica certificata
 2. Le disposizioni di cui al comma 1 si applicano anche alle pubbliche
    amministrazioni regionali e locali salvo che non sia diversamente stabilito.
 
+2-bis.
+   Le pubbliche amministrazioni regionali e locali hanno facoltà di assegnare
+   ai cittadini residenti caselle di posta elettronica certificata atte alla
+   trasmissione di documentazione ufficiale
+
 Art. 7 - Qualità dei servizi resi e soddisfazione dell'utenza
 .............................................................
 
