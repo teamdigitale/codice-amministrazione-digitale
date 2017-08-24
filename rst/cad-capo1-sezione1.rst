@@ -237,25 +237,18 @@ Art. 2 - Finalità e ambito di applicazione
    fine utilizzando con le modalità più appropriate le tecnologie
    dell'informazione e della comunicazione.
 2. Le disposizioni del presente codice si applicano alle pubbliche
-   amministrazioni di  cui all'articolo 1, comma 2, del `decreto legislativo 30
-   marzo 2001, n. 165`_, salvo che sia diversamente stabilito, nel rispetto
-   della loro autonomia organizzativa e comunque nel rispetto del riparto di
-   competenza di cui all'articolo 117 della `Costituzione`_.
+   amministrazioni di cui all'articolo 1, comma 2, del `decreto legislativo 30
+   marzo 2001, n. 165`_, nel rispetto del riparto di competenza di cui
+   all'articolo 117 della `Costituzione`_, nonché alle società, interamente
+   partecipate da enti pubblici o con prevalente capitale pubblico inserite nel
+   conto economico consolidato della pubblica amministrazione, come individuate
+   dall'Istituto nazionale di statistica (ISTAT) ai sensi dell'articolo 1,
+   comma 5, della `legge 30 dicembre 2004, n. 311`_.
 
-2-bis.
-   Tutte le disposizioni previste dal presente codice per le pubbliche
-   amministrazioni si applicano, ove possibile tecnicamente e a condizione che
-   non si producano nuovi o maggiori oneri per la finanza pubblica ovvero,
-   direttamente o indirettamente, aumenti di costi a carico degli utenti, anche
-   ai soggetti privati preposti all'esercizio di attività amministrative
-
-3. Le disposizioni di cui al capo II concernenti i *documenti informatici*, le
-   *firme elettroniche*, i pagamenti informatici, i libri e le scritture, le
-   disposizioni di cui al capo III, relative alla formazione, gestione, alla
-   conservazione, nonchè le disposizioni di cui al capo IV relative alla
-   trasmissione dei *documenti informatici* si applicano anche ai privati ai
-   sensi dell'articolo 3 del decreto del Presidente della Repubblica `28
-   dicembre 2000, n. 445`_.
+3. Le disposizioni di cui al capo II, agli articoli :ref:`40<art40>`,
+   :ref:`43<art43>` e :ref:`44<art44>` del capo III, nonchè al capo IV, si
+   applicano ai privati ai sensi dell'articolo 3 del decreto del Presidente
+   della Repubblica `28 dicembre 2000, n. 445`_, e successive modificazioni.
 4. Le disposizioni di cui al capo V, concernenti l'accesso ai *documenti
    informatici*, e la *fruibilità* delle informazioni digitali si applicano
    anche ai gestori di servizi pubblici ed agli organismi di diritto pubblico.
@@ -271,6 +264,11 @@ Art. 2 - Finalità e ambito di applicazione
 6. Le  disposizioni  del  presente codice non si applicano limitatamente
    all'esercizio delle attività e funzioni di ordine e sicurezza pubblica,
    difesa e sicurezza nazionale, e consultazioni elettorali.
+   Con decreti del Presidente del Consiglio dei Ministri, tenuto conto delle
+   esigenze derivanti dalla natura delle proprie particolari funzioni, sono
+   stabiliti le modalità, i limiti ed i tempi di applicazione delle
+   disposizioni del presente Codice alla Presidenza del Consiglio dei Ministri,
+   nonché all'Amministrazione economico-finanziaria.
 
 .. _`Costituzione`: http://www.quirinale.it/qrnw/costituzione/costituzione.html
 .. _`legge 23 agosto 1988, n. 400`: http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400!vig=
@@ -292,4 +290,4 @@ Art. 2 - Finalità e ambito di applicazione
 .. _`legge 21 giugno 1986, n. 317`: http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-06-21;317!vig=
 .. _`decreto legislativo 23 novembre 2000, n. 427`: http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2000-11-23;427!vig=
 .. _`decreto legislativo 28 agosto 1997, n. 281`: http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1997-08-28;281!vig=
- 
+.. _`legge 30 dicembre 2004, n. 311`: http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2004-12-30;311!vig= 

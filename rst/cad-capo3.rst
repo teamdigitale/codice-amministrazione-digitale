@@ -93,6 +93,8 @@ Art. 42 - Dematerializzazione dei documenti delle pubbliche amministrazioni
    archivi cartacei con archivi informatici, nel rispetto delle regole tecniche
    adottate ai sensi dell\\':ref:`articolo 71<art71>`.
 
+.. _art43:
+
 Art. 43 - Riproduzione e conservazione dei documenti
 ....................................................
 
@@ -118,6 +120,8 @@ Art. 43 - Riproduzione e conservazione dei documenti
    attività culturali sugli archivi delle pubbliche amministrazioni e sugli
    archivi privati dichiarati di notevole interesse storico ai sensi delle
    disposizioni del `decreto legislativo 22 gennaio 2004, n. 42`_.
+
+.. _art44:
 
 Art. 44 - Requisiti per la conservazione dei documenti informatici
 ..................................................................
