@@ -50,12 +50,6 @@ Art. 64 - Modalità di accesso ai servizi erogati in rete dalle pubbliche ammini
    più consentito l'accesso ai servizi erogati in rete dalle pubbliche
    amministrazioni, con strumenti diversi dalla *carta d'identità elettronica*
    e dalla *carta nazionale dei servizi*. 
-   È prorogato alla medesima data il termine relativo alla procedura di
-   accertamento preventivo del possesso della Carta di identità elettronica
-   (CIE), di cui all'articolo 8, comma 5, del decreto del Presidente della
-   Repubblica `2 marzo 2004, n. 117`_, limitatamente alle richieste di
-   emissione di Carte nazionali dei servizi (CNS) da parte dei cittadini non
-   residenti nei comuni in cui è diffusa la CIE.
  
 Art. 65 - Istanze e dichiarazioni presentate alle pubbliche amministrazioni per via telematica 
 ..............................................................................................

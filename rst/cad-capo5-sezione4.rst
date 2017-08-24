@@ -93,6 +93,11 @@ Art. 66 - Carta d'identità elettronica e carta nazionale dei servizi
    per via telematica ai servizi erogati in rete dalle pubbliche
    amministrazioni.
 
+8-bis.
+   8-bis. Fino al 31 dicembre 2010, la *carta nazionale dei servizi* e le altre
+   carte elettroniche ad essa conformi possono essere rilasciate anche ai
+   titolari di *carta di identità elettronica*.
+
 .. _`decreto legislativo 28 agosto 1997, n. 281`: http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1997-08-28;281!vig=
 .. _`legge 23 agosto 1988, n. 400`: http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400!vig=
 .. _`decreto legislativo 30 giugno 2003, n. 196`: http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-06-30;196!vig=
