@@ -199,6 +199,14 @@ Art. 2 - Finalità e ambito di applicazione
    marzo 2001, n. 165`_, salvo che sia diversamente stabilito, nel rispetto
    della loro autonomia organizzativa e comunque nel rispetto del riparto di
    competenza di cui all'articolo 117 della `Costituzione`_.
+
+2-bis.
+   Tutte le disposizioni previste dal presente codice per le pubbliche
+   amministrazioni si applicano, ove possibile tecnicamente e a condizione che
+   non si producano nuovi o maggiori oneri per la finanza pubblica ovvero,
+   direttamente o indirettamente, aumenti di costi a carico degli utenti, anche
+   ai soggetti privati preposti all'esercizio di attività amministrative
+
 3. Le disposizioni di cui al capo II concernenti i *documenti informatici*, le
    *firme elettroniche*, i pagamenti informatici, i libri e le scritture, le
    disposizioni di cui al capo III, relative alla formazione, gestione, alla
