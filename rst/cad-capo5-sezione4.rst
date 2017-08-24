@@ -94,7 +94,7 @@ Art. 66 - Carta d'identità elettronica e carta nazionale dei servizi
    amministrazioni.
 
 8-bis.
-   8-bis. Fino al 31 dicembre 2010, la *carta nazionale dei servizi* e le altre
+   8-bis. Fino al 31 dicembre 2011, la *carta nazionale dei servizi* e le altre
    carte elettroniche ad essa conformi possono essere rilasciate anche ai
    titolari di *carta di identità elettronica*.
 
