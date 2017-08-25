@@ -270,13 +270,14 @@ Art. 30 - Responsabilità del certificatore
    71<art71>`. Il *certificatore* non e' responsabile dei danni derivanti
    dall'uso di un *certificato qualificato* che ecceda i limiti posti dallo
    stesso o derivanti dal superamento del valore limite.
+
+Art. 31 - Vigilanza sull'attività dei certificatori e dei gestori di posta elettronica certificata
+..................................................................................................
+
+1. DigitPA svolge funzioni di vigilanza e controllo sull'attività dei
+   *certificatori qualificati* e dei gestori di *posta elettronica
+   certificata*.
  
-Art. 31 - Vigilanza sull'attività di certificazione
-...................................................
-
-1. Il CNIPA svolge funzioni di vigilanza e controllo sull'attività dei
-   *certificatori* qualificati e accreditati.
-
 .. _art32:
  
 Art. 32 - Obblighi del titolare e del certificatore
