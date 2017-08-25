@@ -55,7 +55,8 @@ Art. 26 - Certificatori
 1. L'attività dei certificatori stabiliti in Italia o in un altro Stato membro
    dell'Unione europea è libera e non necessita di autorizzazione preventiva.
    Detti certificatori o, se persone giuridiche, i loro legali rappresentanti
-   ed i soggetti preposti all'amministrazione, devono possedere i requisiti di
+   ed i soggetti preposti all'amministrazione, qualora emettano certificati
+   qualificati, devono possedere i requisiti di
    onorabilità richiesti ai soggetti che svolgono funzioni di amministrazione,
    direzione e controllo presso le banche di cui all'articolo 26 del testo
    unico delle leggi in materia bancaria e creditizia, di cui al `decreto
