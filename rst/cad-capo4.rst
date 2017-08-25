@@ -59,6 +59,8 @@ Art. 47 - Trasmissione dei documenti attraverso la posta elettronica tra le pubb
       interessati in merito al grado di riservatezza degli strumenti
       utilizzati. 
 
+.. _art48:
+
 Art. 48 - Posta elettronica certificata
 .......................................
 

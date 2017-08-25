@@ -87,18 +87,22 @@ Art. 5-bis - Comunicazioni tra imprese e amministrazioni pubbliche
 Art. 6 - Utilizzo della posta elettronica certificata
 .....................................................
 
-1. Le *pubbliche amministrazioni centrali* utilizzano la *posta elettronica
-   certificata*, di cui al decreto del Presidente della Repubblica `11 febbraio
-   2005, n. 68`_, per ogni scambio di documenti e informazioni con i soggetti
-   interessati che ne fanno richiesta e che hanno preventivamente dichiarato il
-   proprio indirizzo di *posta elettronica certificata*.
-2. Le disposizioni di cui al comma 1 si applicano anche alle pubbliche
-   amministrazioni regionali e locali salvo che non sia diversamente stabilito.
+1. Per le comunicazioni di cui all\\':ref:`articolo 48<art48>`, comma 1, con i
+   soggetti che hanno preventivamente dichiarato il proprio indirizzo ai sensi
+   della vigente normativa tecnica, le pubbliche amministrazioni utilizzano la
+   *posta elettronica certificata*. La dichiarazione dell'indirizzo vincola
+   solo il dichiarante e rappresenta espressa accettazione dell'invio, tramite
+   *posta elettronica certificata*, da parte delle pubbliche amministrazioni,
+   degli atti e dei provvedimenti che lo riguardano.
 
-2-bis.
-   Le pubbliche amministrazioni regionali e locali hanno facoltà di assegnare
-   ai cittadini residenti caselle di posta elettronica certificata atte alla
-   trasmissione di documentazione ufficiale
+1-bis.
+   La consultazione degli indirizzi di *posta elettronica certificata*, di cui
+   agli articoli 16, comma 10, e 16-bis, comma 5, del `decreto-legge 29
+   novembre 2008, n. 185`_, convertito, con modificazioni, dalla `legge 28
+   gennaio 2009, n.  2`_, e l'estrazione di elenchi dei suddetti indirizzi, da
+   parte delle pubbliche amministrazioni è effettuata sulla base delle regole
+   tecniche emanate da DigitPA, sentito il Garante per la protezione dei dati
+   personali.
 
 Art. 7 - Qualità dei servizi resi e soddisfazione dell'utenza
 .............................................................
@@ -193,4 +197,5 @@ Art. 11 - Registro informatico degli adempimenti amministrativi per le imprese
 .. _`decreto legislativo 28 febbraio 2005, n. 42`: http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-02-28;42!vig=
 .. _`decreto legislativo 31 marzo 1998, n. 112`: http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1998-03-31;112!vig=
 .. _`legge 29 luglio 2003, n. 229`: http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2003-07-29;229!vig=
-
+.. _`decreto-legge 29 novembre 2008, n. 185`: http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-11-29;185!vig=
+.. _`legge 28 gennaio 2009, n. 2`: http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-01-28;2!vig= 
