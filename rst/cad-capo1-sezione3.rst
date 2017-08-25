@@ -132,6 +132,21 @@ Art. 15 - Digitalizzazione e riorganizzazione
    comunicazione avvenga in conformità alle prescrizioni tecnologiche definite
    nelle regole tecniche di cui all\\':ref:`articolo 71<art71>`.
 
+2-bis. 
+   Le pubbliche amministrazioni nella valutazione dei progetti di investimento
+   in materia di innovazione tecnologica tengono conto degli effettivi risparmi
+   derivanti dalla razionalizzazione di cui al comma 2, nonchè dei costi e
+   delle economie che ne derivano. 
+   
+2-ter. 
+   Le pubbliche amministrazioni, quantificano annualmente, ai sensi
+   dell'articolo 27, del `decreto legislativo 27 ottobre 2009, n.150`_, i
+   risparmi effettivamente conseguiti in attuazione delle disposizioni di cui
+   ai commi 1 e 2. Tali risparmi sono utilizzati, per due terzi secondo quanto
+   previsto dall'articolo 27, comma 1, del citato decreto legislativo n. 150
+   del 2009 e in misura pari ad un terzo per il finanziamento di ulteriori
+   progetti di innovazione.
+
 3. La digitalizzazione dell'azione amministrativa è attuata dalle pubbliche
    amministrazioni con modalità idonee a garantire la partecipazione
    dell'Italia alla costruzione di reti transeuropee per lo scambio elettronico
