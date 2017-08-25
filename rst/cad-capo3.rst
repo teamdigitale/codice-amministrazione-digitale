@@ -142,7 +142,7 @@ Art. 43 - Riproduzione e conservazione dei documenti
 Art. 44 - Requisiti per la conservazione dei documenti informatici
 ..................................................................
 
-1. Il sistema di conservazione dei *documenti informatici* garantisce:
+1. Il sistema di conservazione dei *documenti informatici* assicura:
 
    a) l'identificazione certa del soggetto che ha formato il documento e
       dell'amministrazione o dell'area organizzativa omogenea di riferimento di
@@ -155,6 +155,40 @@ Art. 44 - Requisiti per la conservazione dei documenti informatici
    d) il rispetto delle misure di sicurezza previste dagli articoli da 31 a 36
       del `decreto legislativo 30 giugno 2003, n. 196`_, e dal disciplinare
       tecnico pubblicato in allegato B a tale decreto.
+
+1-bis. 
+   Il sistema di conservazione dei *documenti informatici* è gestito da un
+   responsabile che opera d'intesa con il responsabile del trattamento dei dati
+   personali di cui all'articolo 29 del `decreto legislativo 30 giugno 2003, n.
+   196`_, e, ove previsto, con il responsabile del servizio per la tenuta del
+   protocollo informatico, della gestione dei flussi documentali e degli
+   archivi di cui all'articolo 61 del decreto del Presidente della Repubblica
+   `28 dicembre 2000, n. 445`_, nella definizione e gestione delle attività di
+   rispettiva competenza. 
+   
+1-ter. 
+   Il responsabile della conservazione può chiedere la conservazione dei
+   *documenti informatici* o la certificazione della conformità del relativo
+   processo di conservazione a quanto stabilito dall\\':ref:`articolo
+   43<art43>` e dalle regole tecniche ivi previste, nonché dal comma 1 ad altri
+   soggetti, pubblici o privati, che offrono idonee garanzie organizzative e
+   tecnologiche.
+
+Art. 44-bis - Conservatori accreditati
+......................................
+
+1. I soggetti pubblici e privati che svolgono attività di conservazione dei
+   *documenti informatici* e di certificazione dei relativi processi anche per
+   conto di terzi ed intendono conseguire il riconoscimento del possesso dei
+   requisiti del livello più elevato, in termini di qualità e di sicurezza,
+   chiedono l'accreditamento presso DigitPA. 
+   
+2. Si applicano, in quanto compatibili, gli articoli :ref:`26<art26>`,
+   :ref:`27<art27>`, :ref:`29<art29>`, ad eccezione del comma 3, lettera a) e
+   :ref:`31<art31>`. 
+   
+3. I soggetti privati di cui al comma 1 sono costituiti in società di
+   capitali con capitale sociale non inferiore a euro 200.000.
 
 .. _`legge 23 agosto 1988, n. 400`: http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400!vig=
 .. _`legge n. 241 del 1990`:
