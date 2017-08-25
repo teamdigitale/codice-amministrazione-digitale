@@ -219,3 +219,4 @@ Art. 23-quater - Riproduzioni informatiche
 
 .. _`codice civile`: http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-16;262
 .. _`direttiva 1999/93/CE`: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31999L0093:it:HTML
+.. _`decreto legislativo 28 agosto 1997, n. 281`: http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1997-08-28;281!vig=
