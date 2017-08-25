@@ -65,9 +65,8 @@ Art. 59 - Dati territoriali
    legislativo 28 agosto 1997, n. 281`_, sono definite la composizione e le
    modalità per il funzionamento del Comitato di cui al comma 2.
 
-5. Ai sensi dell'articolo 17, comma 3, della `legge 23 agosto 1988, n. 400`_,
-   con uno o più decreti sulla proposta del Presidente del Consiglio dei
-   Ministri o, per sua delega, del Ministro per l'innovazione e le tecnologie,
+5. Con decreti del Presidente del Consiglio dei Ministri o del Ministro
+   delegato per la pubblica amministrazione e l'innovazione,
    di concerto con il Ministro dell'ambiente e della tutela del territorio e
    del mare, per i profili relativi ai dati ambientali,
    sentito il Comitato per le regole tecniche sui *dati territoriali* delle
