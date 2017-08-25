@@ -32,8 +32,9 @@ Art. 46 - Dati particolari contenuti nei documenti trasmessi
 Art. 47 - Trasmissione dei documenti attraverso la posta elettronica tra le pubbliche amministrazioni 
 .....................................................................................................
  
-1. Le comunicazioni di documenti tra le pubbliche amministrazioni avvengono di
-   norma mediante l'utilizzo della posta elettronica; esse sono valide ai fini
+1. Le comunicazioni di documenti tra le pubbliche amministrazioni avvengono 
+   mediante l'utilizzo della posta elettronica o in cooperazione applicativa;
+   esse sono valide ai fini
    del procedimento amministrativo una volta che ne sia verificata la
    provenienza. 
 
@@ -41,25 +42,23 @@ Art. 47 - Trasmissione dei documenti attraverso la posta elettronica tra le pubb
 
    a) sono sottoscritte con *firma digitale* o altro tipo di *firma elettronica
       qualificata*; 
-   b) ovvero sono dotate di protocollo informatizzato; 
+   b) ovvero sono dotate di segnatura di protocollo di cui all'articolo 55 del
+      decreto del Presidente della Repubblica `28 dicembre 2000, n. 445`_
    c) ovvero è comunque possibile accertarne altrimenti la provenienza, secondo
       quanto previsto dalla normativa vigente o dalle regole tecniche di cui
       all\\':ref:`articolo 71<art71>`; 
    d) ovvero trasmesse attraverso sistemi di *posta elettronica certificata* di
       cui al decreto del Presidente della Repubblica `11 febbraio 2005, n. 68`_. 
- 
-3. Entro otto mesi dalla data di entrata in vigore del presente codice
-   le *pubbliche amministrazioni centrali* provvedono a: 
- 
-   a) istituire almeno una casella di posta elettronica istituzionale ed una
-      casella di *posta elettronica certificata* ai sensi del decreto del
-      Presidente della Repubblica `11 febbraio 2005, n. 68`_, per ciascun
-      registro di protocollo; 
-   b) utilizzare la posta elettronica per le comunicazioni tra
-      l'amministrazione ed i propri dipendenti, nel rispetto delle norme in
-      materia di protezione dei dati personali e previa informativa agli
-      interessati in merito al grado di riservatezza degli strumenti
-      utilizzati. 
+
+3. Le pubbliche amministrazioni e gli altri soggetti di cui
+   all\\':ref:`articolo 2<art2>`, comma 2, provvedono ad istituire e pubblicare
+   nell'*Indice PA* almeno una casella di *posta elettronica certificata* per
+   ciascun registro di protocollo. La pubbliche amministrazioni utilizzano per
+   le comunicazioni tra l'amministrazione ed i propri dipendenti la posta
+   elettronica o altri strumenti informatici di comunicazione nel rispetto
+   delle norme in materia di protezione dei dati personali e previa informativa
+   agli interessati in merito al grado di riservatezza degli strumenti
+   utilizzati.
 
 .. _art48:
 
@@ -99,3 +98,4 @@ Art. 49 - Segretezza della corrispondenza trasmessa per via telematica
 
 .. _`11 febbraio 2005, n. 68`: http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:2005-02-11;68!vig=
 .. _`decreto legislativo 30 giugno 2003, n. 196`: http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-06-30;196!vig=
+.. _`28 dicembre 2000, n. 445`: http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:2000-12-28;445!vig=
