@@ -551,6 +551,13 @@ Art. 37 - Cessazione dell'attività
    accreditato* tramite l'elenco di cui all\\':ref:`articolo 29<art29>`, comma
    6.
 
+4-bis.
+   Qualora il *certificatore qualificato* cessi la propria attività senza
+   indicare, ai sensi del comma 2, un *certificatore* sostitutivo e non si
+   impegni a garantire la conservazione e la disponibilità della documentazione
+   prevista dagli articoli 33 e 32, comma 3, lettera j) e delle ultime liste di
+   revoca emesse, deve provvedere al deposito presso DigitPA che ne garantisce
+   la conservazione e la disponibilità.
 
 .. _`decreto legislativo 1° settembre 1993, n. 385`: http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385!vig=
 .. _`decreto legislativo 30 giugno 2003, n. 196`: http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-06-30;196!vig=
