@@ -32,6 +32,8 @@ Art. 50 - Disponibilità dei dati delle pubbliche amministrazioni
    eroga i servizi informatici allo scopo necessari, secondo le regole tecniche
    del sistema pubblico di connettività di cui al presente decreto.
 
+.. _art51:
+
 Art. 51 - Sicurezza dei dati
 ............................
 
