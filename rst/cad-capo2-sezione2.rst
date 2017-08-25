@@ -271,6 +271,8 @@ Art. 30 - Responsabilità del certificatore
    dall'uso di un *certificato qualificato* che ecceda i limiti posti dallo
    stesso o derivanti dal superamento del valore limite.
 
+.. _art31: 
+
 Art. 31 - Vigilanza sull'attività dei certificatori e dei gestori di posta elettronica certificata
 ..................................................................................................
 
@@ -310,8 +312,7 @@ Art. 32 - Obblighi del titolare e del certificatore
       certificazione e sui necessari requisiti tecnici per accedervi e sulle
       caratteristiche e sulle limitazioni d'uso delle firme emesse sulla base
       del servizio di certificazione;
-   f) non rendersi depositario di dati per la creazione della firma del
-      titolare;
+
    g) procedere alla tempestiva pubblicazione della revoca e della sospensione
       del *certificato elettronico* in caso di richiesta da parte del
       *titolare* o del terzo dal quale derivino i poteri del *titolare*
@@ -351,6 +352,12 @@ Art. 32 - Obblighi del titolare e del certificatore
       sicurezza. Su richiesta, elementi pertinenti delle informazioni possono
       essere resi accessibili a terzi che facciano affidamento sul certificato.
 
+   m-bis.
+     garantire il corretto funzionamento e la continuità del sistema e
+     comunicare immediatamente a DigitPA e agli utenti eventuali
+     malfunzionamenti che determinano disservizio, sospensione o interruzione
+     del servizio stesso.
+
 4. Il *certificatore* è responsabile dell'identificazione del soggetto che
    richiede il *certificato qualificato* di firma anche se tale attività è
    delegata a terzi.
@@ -361,6 +368,42 @@ Art. 32 - Obblighi del titolare e del certificatore
    l'informativa prevista dall'articolo 13 del `decreto legislativo 30 giugno
    2003, n. 196`_. I dati non possono essere raccolti o elaborati per fini
    diversi senza l'espresso consenso della persona cui si riferiscono.
+
+Art. 32-bis - Sanzioni per i certificatori qualificati e per i gestori di posta elettronica certificata
+.......................................................................................................
+
+1. Qualora si verifichi, salvi i casi di forza maggiore o caso fortuito, un
+   malfunzionamento nel sistema che determini un disservizio, ovvero la mancata
+   o intempestiva comunicazione dello stesso disservizio a DigitPA o agli
+   utenti, ai sensi dell\\':ref:`articolo 32<art32>`, comma 3, lettera m-bis),
+   DigitPA diffida il *certificatore qualificato* o il gestore di *posta
+   elettronica certificata* a ripristinare la regolarità del servizio o ad
+   effettuare le comunicazioni ivi previste. Se il disservizio ovvero la
+   mancata o intempestiva comunicazione sono reiterati per due volte nel corso
+   di un biennio, successivamente alla seconda diffida si applica la sanzione
+   della cancellazione dall'elenco pubblico. 
+   
+2. Qualora si verifichi, fatti salvi i casi di forza maggiore o di caso
+   fortuito, un malfunzionamento nel sistema che determini l'interruzione del
+   servizio, ovvero la mancata o intempestiva comunicazione dello stesso
+   disservizio a DigitPA o agli utenti, ai sensi dell\\':ref:`articolo
+   32<art32>`, comma 3, lettera m-bis), DigitPA diffida il *certificatore
+   qualificato* o il gestore di *posta elettronica certificata* a ripristinare
+   la regolarità del servizio o ad effettuare le comunicazioni ivi previste. Se
+   l'interruzione del servizio ovvero la mancata o intempestiva comunicazione
+   sono reiterati nel corso di un biennio, successivamente alla prima diffida
+   si applica la sanzione della cancellazione dall'elenco pubblico. 
+   
+3. Nei casi di cui ai commi 1 e 2 può essere applicata la sanzione
+   amministrativa accessoria della pubblicazione dei provvedimenti di diffida o
+   di cancellazione secondo la legislazione vigente in materia di pubblicità
+   legale.
+
+4. Qualora un *certificatore qualificato* o un gestore di *posta elettronica
+   certificata* non ottemperi, nei tempi previsti, a quanto prescritto da
+   DigitPA nell'esercizio delle attività di vigilanza di cui
+   all\\':ref:`articolo 31<art31>` si applica la disposizione di cui al comma
+   2.
    
 Art. 33 - Uso di pseudonimi
 ...........................
