@@ -19,6 +19,8 @@ Art. 67 - Modalità di sviluppo ed acquisizione
    ai sensi del comma 1, qualora sia in possesso dei relativi requisiti
    soggettivi.
 
+.. _art68:
+
 Art. 68 - Analisi comparativa delle soluzioni 
 .............................................
  
