@@ -116,9 +116,9 @@ Art. 43 - Riproduzione e conservazione dei documenti
 1. I documenti degli archivi, le scritture contabili, la corrispondenza ed ogni
    atto, dato o documento di cui è prescritta la conservazione per legge o
    regolamento, ove riprodotti su supporti informatici sono validi e rilevanti
-   a tutti gli effetti di legge, se la riproduzione sia effettuata in modo da
-   garantire la conformità dei documenti agli originali e la loro conservazione
-   nel tempo, nel rispetto delle regole tecniche stabilite ai sensi
+   a tutti gli effetti di legge, se la riproduzione e la conservazione nel
+   tempo sono effettuate in modo da garantire la conformità dei documenti agli
+   originali nel tempo, nel rispetto delle regole tecniche stabilite ai sensi
    dell\\':ref:`articolo 71<art71>`.
  
 2. Restano validi i documenti degli archivi, le scritture contabili, la
@@ -129,7 +129,8 @@ Art. 43 - Riproduzione e conservazione dei documenti
 3. I documenti informatici, di cui è prescritta la conservazione per legge o
    regolamento, possono essere archiviati per le esigenze correnti anche con
    modalità cartacee e sono conservati in modo permanente con modalità
-   digitali.
+   digitali, nel rispetto delle regole tecniche stabilite ai sensi 
+   dell\\':ref:`articolo 71<art71>`.
  
 4. Sono fatti salvi i poteri di controllo del Ministero per i beni e le
    attività culturali sugli archivi delle pubbliche amministrazioni e sugli
