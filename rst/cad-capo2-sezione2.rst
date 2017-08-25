@@ -221,10 +221,13 @@ Art. 29 - Accreditamento
 7. Il *certificatore accreditato* può qualificarsi come tale nei rapporti
    commerciali e con le pubbliche amministrazioni.
 
-8. Sono equiparati ai *certificatori accreditati* ai sensi del presente
-   articolo i *certificatori accreditati* in altri Stati membri dell'Unione
-   europea ai sensi dell'articolo 3, paragrafo 2, della `direttiva
-   1999/93/CE`_.
+8. Il valore giuridico delle *firme elettroniche qualificate* e delle *firme
+   digitali* basate su *certificati qualificati* rilasciati da *certificatori
+   accreditati* in altri Stati membri dell'Unione europea ai sensi
+   dell'articolo 3, paragrafo 2, della `direttiva 1999/93/CE`_ è equiparato a
+   quello previsto per le *firme elettroniche qualificate* e per le *firme
+   digitali* basate su *certificati qualificati* emessi dai *certificatori
+   accreditati* ai sensi del presente articolo.
 
 9. Alle attività previste dal presente articolo si fa fronte nell'ambito delle
    risorse del CNIPA, senza nuovi o maggiori oneri per la finanza pubblica.
