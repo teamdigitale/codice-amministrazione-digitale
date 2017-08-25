@@ -1,8 +1,8 @@
-Sezione III - Pagamenti, libri e scritture
-*****************************************************
+Sezione III - Trasferimenti di fondi, libri e scritture
+*******************************************************
 
-Art. 38 - Pagamenti informatici
-...............................
+Art. 38 - Trasferimenti di fondi
+................................
 
 1. Il trasferimento in via telematica di fondi tra pubbliche amministrazioni e
    tra queste e soggetti privati è effettuato secondo le regole tecniche

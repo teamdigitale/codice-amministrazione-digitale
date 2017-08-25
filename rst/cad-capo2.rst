@@ -1,5 +1,5 @@
-Capo II - Documento informatico e firme elettroniche; trasferimenti, libri e scritture
---------------------------------------------------------------------------------------
+Capo II - Documento informatico e firme elettroniche; trasferimenti di fondi, libri e scritture
+-----------------------------------------------------------------------------------------------
 
 .. toctree::
 
