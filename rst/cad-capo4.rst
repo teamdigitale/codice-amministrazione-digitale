@@ -5,7 +5,7 @@ Art. 45 - Valore giuridico della trasmissione
 .............................................
 
 1. I documenti trasmessi da chiunque ad una pubblica amministrazione con
-   qualsiasi mezzo telematico o informatico, ivi compreso il fax, idoneo ad
+   qualsiasi mezzo telematico o informatico, idoneo ad
    accertarne la fonte di provenienza, soddisfano il requisito della forma
    scritta e la loro trasmissione non deve essere seguita da quella del
    documento originale.
