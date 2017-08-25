@@ -43,6 +43,11 @@ Art. 41 - Procedimento e fascicolo informatico
 1. Le pubbliche amministrazioni gestiscono i procedimenti amministrativi
    utilizzando le tecnologie dell'informazione e della comunicazione, nei casi
    e nei modi previsti dalla normativa vigente.
+
+1-bis.
+   La gestione dei procedimenti amministrativi è attuata in modo da
+   consentire, mediante strumenti automatici, il rispetto di quanto previsto
+   all\\'`articolo 54<art54>`, commi 2-ter e 2-quater.
  
 2. La pubblica amministrazione titolare del procedimento può raccogliere in un
    *fascicolo informatico* gli atti, i documenti e i dati del procedimento
@@ -54,7 +59,8 @@ Art. 41 - Procedimento e fascicolo informatico
 2-bis.
    Il fascicolo informatico è realizzato garantendo la possibilità di essere
    direttamente consultato ed alimentato da tutte le amministrazioni coinvolte
-   nel procedimento. Le regole per la costituzione e l'utilizzo del fascicolo
+   nel procedimento. Le regole per la costituzione, l'identificazione e
+   l'utilizzo del fascicolo
    sono conformi ai principi di una corretta gestione documentale ed alla
    disciplina della formazione, gestione, conservazione e trasmissione del
    documento informatico, ivi comprese le regole concernenti il protocollo
@@ -73,6 +79,9 @@ Art. 41 - Procedimento e fascicolo informatico
    d) dell'oggetto del procedimento; 
    e) dell'elenco dei documenti contenuti, salvo quanto disposto dal comma 
       2-quater. 
+
+   e-bis.
+      dell'identificativo del fascicolo medesimo.
       
 2-quater. 
    Il fascicolo informatico può contenere aree a cui hanno accesso solo
