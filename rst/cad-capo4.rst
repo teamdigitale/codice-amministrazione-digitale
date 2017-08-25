@@ -27,6 +27,8 @@ Art. 46 - Dati particolari contenuti nei documenti trasmessi
    da regolamento e indispensabili per il perseguimento delle finalità per le
    quali sono acquisite.
 
+.. _art47:
+
 Art. 47 - Trasmissione dei documenti attraverso la posta elettronica tra le pubbliche amministrazioni 
 .....................................................................................................
  

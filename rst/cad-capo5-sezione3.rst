@@ -50,6 +50,8 @@ Art. 64 - Modalità di accesso ai servizi erogati in rete dalle pubbliche ammini
    più consentito l'accesso ai servizi erogati in rete dalle pubbliche
    amministrazioni, con strumenti diversi dalla *carta d'identità elettronica*
    e dalla *carta nazionale dei servizi*. 
+
+.. _art65:
  
 Art. 65 - Istanze e dichiarazioni presentate alle pubbliche amministrazioni per via telematica 
 ..............................................................................................

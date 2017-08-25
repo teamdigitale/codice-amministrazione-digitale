@@ -6,16 +6,11 @@ Capo III - Formazione, gestione e conservazione dei documenti informatici
 Art. 40 - Formazione di documenti informatici
 .............................................
 
-1. Le pubbliche amministrazioni che dispongono di idonee risorse tecnologiche
+1. Le pubbliche amministrazioni
    formano gli originali dei propri documenti con mezzi informatici secondo le
    disposizioni di cui al presente codice e le regole tecniche di cui
    all\\':ref:`articolo 71<art71>`.
 
-2. Fermo restando quanto previsto dal comma 1, la redazione di documenti
-   originali su supporto cartaceo, nonché la copia di *documenti informatici*
-   sul medesimo supporto è consentita solo ove risulti necessaria e comunque
-   nel rispetto del principio dell'economicità.
- 
 3. Con apposito regolamento, da emanarsi entro 180 giorni dalla data di entrata
    in vigore del presente codice, ai sensi dell'articolo 17, comma 1, della
    `legge 23 agosto 1988, n. 400`_, sulla proposta dei Ministri delegati per la
@@ -30,6 +25,17 @@ Art. 40 - Formazione di documenti informatici
    pubblici registri ed ogni altra raccolta di dati concernenti stati, qualità
    personali e fatti già realizzati dalle amministrazioni, su supporto
    informatico, in luogo dei registri cartacei.
+
+Art. 40-bis - Protocollo informatico
+....................................
+
+1. Formano comunque oggetto di registrazione di protocollo ai sensi
+   dell'articolo 53 del decreto del Presidente della Repubblica `28 dicembre
+   2000, n. 445`_, le comunicazioni che pervengono o sono inviate dalle caselle
+   di posta elettronica di cui agli articoli :ref:`47<art47>`, commi 1 e 3,
+   :ref:`54<art54>`, comma 2-ter e :ref:`57-bis<art57bis>`, comma 1, nonché le
+   istanze e le dichiarazioni di cui all\\':ref:`articolo 65<art65>` in
+   conformità alle regole tecniche di cui all\\'`articolo 71<art71>`.
  
 Art. 41 - Procedimento e fascicolo informatico
 ..............................................

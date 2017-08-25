@@ -198,6 +198,8 @@ Art. 57 - Moduli e formulari
    possono essere richiesti ed i relativi procedimenti possono essere conclusi
    anche in assenza dei suddetti moduli o formulari. 
 
+.. _art57bis:
+
 Art. 57-bis - Indice degli indirizzi delle pubbliche amministrazioni
 ....................................................................
 
