@@ -135,22 +135,14 @@ Art. 9 - Partecipazione democratica elettronica
    processo democratico e per facilitare l'esercizio dei diritti politici e
    civili sia individuali che collettivi.
 
-Art. 10 - Sportelli per le attività produttive
-..............................................
+Art. 10 - Sportello unico per le attività produttive
+....................................................
 
-1. Lo sportello unico di cui all'articolo 3 del decreto del Presidente della
-   Repubblica `20 ottobre 1998, n. 447`_, è realizzato in modalità informatica
-   ed eroga i propri servizi verso l'utenza anche in via telematica.
-2. Gli sportelli unici consentono l'invio di istanze, dichiarazioni, documenti
-   e ogni altro atto trasmesso dall'utente in via telematica e sono integrati
-   con i servizi erogati in rete dalle pubbliche amministrazioni.
-3. Al fine di promuovere la massima efficacia ed efficienza dello sportello
-   unico, anche attraverso l'adozione di modalità omogenee di relazione con
-   gli utenti nell'intero territorio nazionale, lo Stato, d'intesa con la
-   Conferenza unificata di cui all'articolo 8 del `decreto legislativo 28
-   agosto 1997, n. 281`_, individua uno o più modelli tecnico-organizzativi di
-   riferimento, tenendo presenti le migliori esperienze realizzate che
-   garantiscano l'interoperabilità delle soluzioni individuate.
+1. Lo sportello unico per le attività produttive di cui all'articolo 38, comma
+   3, del `decreto-legge 25 giugno 2008, n.112`_, convertito, con
+   modificazioni, dalla `legge 6 agosto 2008, n.133`, eroga i propri servizi
+   verso l'utenza in via telematica.
+
 4. Lo Stato realizza, nell'ambito di quanto previsto dal sistema pubblico di
    connettività di cui al presente decreto, un
    sistema informatizzato per le imprese relativo ai procedimenti di competenza
@@ -200,3 +192,5 @@ Art. 11 - Registro informatico degli adempimenti amministrativi per le imprese
 .. _`legge 29 luglio 2003, n. 229`: http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2003-07-29;229!vig=
 .. _`decreto-legge 29 novembre 2008, n. 185`: http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-11-29;185!vig=
 .. _`legge 28 gennaio 2009, n. 2`: http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-01-28;2!vig= 
+.. _`decreto-legge 25 giugno 2008, n.112`: http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-06-25;112!vig=
+.. _`legge 6 agosto 2008, n.133`: http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2008-08-06;133!vig=
