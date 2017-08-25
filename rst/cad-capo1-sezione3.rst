@@ -88,6 +88,16 @@ Art. 14 - Rapporti tra Stato, Regioni e autonomie locali
    coordinato e condiviso e per l'individuazione delle regole tecniche di cui
    all\\':ref:`articolo 71<art71>`.
 
+2-bis. 
+   Le regioni promuovono sul territorio azioni tese a realizzare un processo di
+   digitalizzazione dell'azione amministrativa coordinato e condiviso tra le
+   autonomie locali. 
+   
+2-ter. 
+   Le regioni e gli enti locali digitalizzano la loro azione amministrativa e
+   implementano l'utilizzo delle tecnologie dell'informazione e della
+   comunicazione per garantire servizi migliori ai cittadini e alle imprese.
+
 3. Lo Stato, ai fini di quanto previsto ai commi 1 e 2, istituisce organismi di
    cooperazione con le regioni e le autonomie locali, promuove intese ed
    accordi tematici e territoriali, favorisce la collaborazione interregionale,
