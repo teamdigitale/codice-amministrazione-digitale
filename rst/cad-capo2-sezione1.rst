@@ -4,7 +4,7 @@ Sezione I - Documento informatico
 Art. 20 - Documento informatico
 ...............................
 
-1. Il *documento informatico* da chiunque formato, la registrazione su supporto
+1. Il *documento informatico* da chiunque formato, la memorizzazione su supporto
    informatico e la trasmissione con strumenti telematici conformi alle regole 
    tecniche di cui all\\':ref:`articolo 71<art71>` sono validi e
    rilevanti agli effetti di legge, ai sensi delle disposizioni del presente 
@@ -12,32 +12,34 @@ Art. 20 - Documento informatico
 
 1-bis.
    L'idoneità del *documento informatico* a soddisfare il requisito della forma
-   scritta è liberamente valutabile in giudizio, tenuto conto delle sue
-   caratteristiche oggettive di qualità, sicurezza, integrità ed
-   immodificabilità, fermo restando quanto disposto dal comma 2.
+   scritta e il suo valore probatorio sono liberamente valutabili in giudizio,
+   tenuto conto delle sue caratteristiche oggettive di qualità, sicurezza,
+   integrità ed immodificabilità, fermo restando quanto disposto
+   dall\\':ref:`articolo 21<art21>`.
 
-2. Il *documento informatico* sottoscritto con *firma elettronica qualificata*
-   o con *firma digitale*, formato nel rispetto delle regole tecniche stabilite
-   ai sensi dell\\':ref:`articolo 71<art71>`, che garantiscano
-   l'identificabilità dell'autore, l'integrità e l'immodificabilità del
-   documento, si presume riconducibile al *titolare* del dispositivo di firma
-   ai sensi dell'articolo 21, comma 2, e soddisfa comunque il requisito della
-   forma scritta, anche nei casi previsti, sotto pena di nullità, dall'articolo
-   1350, primo comma, numeri da 1 a 12 del `codice civile`_.
 3. Le regole tecniche per la formazione, per la trasmissione, la conservazione,
-   la duplicazione,
-   la riproduzione e la *validazione temporale* dei *documenti informatici*
-   sono stabilite ai sensi dell\\':ref:`articolo 71<art71>`; la data e l'ora di
-   formazione del *documento informatico* sono opponibili ai terzi se apposte
-   in conformità alle regole tecniche sulla validazione temporale.
+   la copia, la duplicazione, la riproduzione e la validazione temporale dei
+   *documenti informatici*, nonchè quelle in materia di generazione,
+   apposizione e verifica di qualsiasi tipo di *firma elettronica avanzata*,
+   sono stabilite ai sensi dell\\':ref:`articolo 71<art71>`. La data e l'ora di
+   formazione del documento informatico sono opponibili ai terzi se apposte in
+   conformità alle regole tecniche sulla validazione temporale.
 4. Con le medesime regole tecniche sono definite le misure tecniche,
    organizzative e gestionali volte a garantire l'integrità, la disponibilità e
    la riservatezza delle informazioni contenute nel *documento informatico*.
 5. Restano ferme le disposizioni di legge in materia di protezione dei dati
    personali.
 
+5-bis.
+   Gli obblighi di conservazione e di esibizione di documenti previsti dalla
+   legislazione vigente si intendono soddisfatti a tutti gli effetti di legge a
+   mezzo di documenti informatici, se le procedure utilizzate sono conformi
+   alle regole tecniche dettate ai sensi dell\\':ref:`articolo 71<art71>`.
+
+.. _art21:
+
 Art. 21 - Valore probatorio del *documento informatico* sottoscritto 
-................................**.................................. 
+.................................................................... 
 
 1. Il *documento informatico*, cui è apposta una *firma elettronica*, sul piano
    probatorio è liberamente valutabile in giudizio, tenuto conto delle sue
