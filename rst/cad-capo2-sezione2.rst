@@ -22,6 +22,8 @@ Art. 24 - Firma digitale
    validità del certificato stesso, nonché gli elementi identificativi del
    *titolare* e del *certificatore* e gli eventuali limiti d'uso. 
 
+.. _art25:
+
 Art. 25 - Firma autenticata
 ...........................
 
