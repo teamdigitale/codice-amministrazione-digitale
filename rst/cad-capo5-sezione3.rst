@@ -68,27 +68,34 @@ Art. 65 - Istanze e dichiarazioni presentate alle pubbliche amministrazioni per 
    c) ovvero quando l'autore è identificato dal sistema informatico con i
       diversi strumenti di cui all\\':ref:`articolo 64<art64>`, comma 2, nei
       limiti di quanto stabilito da ciascuna amministrazione ai sensi della
-      normativa vigente e fermo restando il disposto dell\\':ref:`articolo
-      64<art64>`, comma 3. 
+      normativa vigente nonché quando le istanze e le dichiarazioni sono
+      inviate con le modalità di cui all'articolo 38, comma 3, del decreto del
+      Presidente della Repubblica `28 dicembre 2000, n. 445`_.
 
    c-bis) 
-      ovvero quando l'autore è identificato dal sistema informatico attraverso
-      le credenziali di accesso relative all'utenza personale di posta
-      elettronica certificata di cui all'articolo 16-bis del `decreto-legge 29
-      novembre 2008, n. 185`_, convertito con modificazioni, dalla `legge 28
-      gennaio 2009, n. 2`_.
- 
+      ovvero se trasmesse dall'autore mediante la propria casella di *posta
+      elettronica certificata* purché le relative credenziali di accesso siano
+      state rilasciate previa identificazione del *titolare*, anche per via
+      telematica secondo modalità definite con regole tecniche adottate ai
+      sensi dell\\':ref:`articolo 71<art71>`, e ciò sia attestato dal gestore
+      del sistema nel messaggio o in un suo allegato. In tal caso, la
+      trasmissione costituisce dichiarazione vincolante ai sensi
+      dell\\':ref:`articolo 6<art6>`, comma 1, secondo periodo. Sono fatte
+      salve le disposizioni normative che prevedono l'uso di specifici sistemi
+      di trasmissione
+      telematica nel settore tributario;
+
+1-bis.
+   Con decreto del Ministro per la pubblica amministrazione e l'innovazione e
+   del Ministro per la semplificazione normativa, su proposta dei Ministri
+   competenti per materia, possono essere individuati i casi in cui è
+   richiesta la sottoscrizione mediante *firma digitale*.
+
 2. Le istanze e le dichiarazioni inviate o compilate sul sito 
    secondo le modalità previste dal comma
    1 sono equivalenti alle istanze e alle dichiarazioni sottoscritte con firma
-   autografa apposta in presenza del dipendente addetto al procedimento;
-   resta salva la facoltà della pubblica amministrazione di stabilire i casi
-   in cui è necessaria la sottoscrizione mediante la firma digitale.
+   autografa apposta in presenza del dipendente addetto al procedimento.
 
-3. Dalla data di cui all\\'`articolo 64<art64>`, comma 3, non è più consentito
-   l'invio di istanze e dichiarazioni con le modalità di cui al comma 1,
-   lettera c). 
- 
 4. Il comma 2 dell'articolo 38 del decreto del Presidente della Repubblica `28
    dicembre 2000, n. 445`_, è sostituito dal seguente: "2. Le istanze e le
    dichiarazioni inviate per via telematica sono valide se effettuate secondo

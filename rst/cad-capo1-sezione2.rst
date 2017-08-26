@@ -84,6 +84,8 @@ Art. 5-bis - Comunicazioni tra imprese e amministrazioni pubbliche
     Conferenza unificata per l'adozione degli indirizzi utili alla
     realizzazione delle finalità di cui al comma 1.
 
+.. _art6:
+
 Art. 6 - Utilizzo della posta elettronica certificata
 .....................................................
 
