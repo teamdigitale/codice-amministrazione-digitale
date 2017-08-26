@@ -142,7 +142,8 @@ Art. 60 - Base di dati di interesse nazionale
    
    a) repertorio nazionale dei dati territoriali; 
    b) indice nazionale delle anagrafi; 
-   c) banca dati nazionale dei contratti pubblici di cui all'articolo 62-bis;
+   c) banca dati nazionale dei contratti pubblici di cui 
+      all\\':ref:`articolo 62-bis<art62bis>`;
    d) casellario giudiziale; 
    e) registro delle imprese; 
    f) gli archivi automatizzati in materia di immigrazione e di asilo di cui
@@ -175,6 +176,23 @@ Art. 62 - Indice nazionale delle anagrafi
    anagrafiche e fornisce i servizi di convalida delle informazioni medesime
    ove richiesto per l'attuazione della normativa vigente.
 
+.. _art62bis:
+
+Art. 62-bis - Banca dati nazionale dei contratti pubblici
+.........................................................
+
+1. Per favorire la riduzione degli oneri amministrativi derivanti dagli
+   obblighi informativi ed assicurare l'efficacia, la trasparenza e il
+   controllo in tempo reale dell'azione amministrativa per l'allocazione della
+   spesa pubblica in lavori, servizi e forniture, anche al fine del rispetto
+   della legalità e del corretto agire della pubblica amministrazione e
+   prevenire fenomeni di corruzione, si utilizza la "Banca dati nazionale dei
+   contratti pubblici" (BDNCP) istituita, presso l'Autorità per la vigilanza
+   sui contratti pubblici di lavori, servizi e forniture, della quale fanno
+   parte i dati previsti dall'articolo 7 del `decreto legislativo 12 aprile
+   2006, n. 163`_, e disciplinata, ai sensi del medesimo decreto legislativo,
+   dal relativo regolamento attuativo.
+
 .. _`decreto legislativo 28 luglio 1998, n. 281`: http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1998-07-28;281!vig=
 .. _`decreto legislativo 28 agosto 1997, n. 281`: http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1997-08-28;281!vig=
 .. _`decreto legislativo 28 febbraio 2005, n. 42`: http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-02-28;42!vig=
@@ -185,3 +203,4 @@ Art. 62 - Indice nazionale delle anagrafi
 .. _`decreto legislativo 27 ottobre 2009, n. 150`: http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2009-10-27;150!vig=
 .. _`27 luglio 2004, n. 242`: http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:2004-07-27;242!vig=
 .. _`decreto legislativo 6 settembre 1989, n. 322`: http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1989-09-06;322!vig=
+.. _`decreto legislativo 12 aprile 2006, n. 163`: http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-04-12;163!vig=
