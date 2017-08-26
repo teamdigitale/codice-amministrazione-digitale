@@ -6,7 +6,8 @@ Art. 66 - Carta d'identità elettronica e carta nazionale dei servizi
 
 1. Le caratteristiche e le modalità per il rilascio, della *carta d'identità
    elettronica*, e dell'analogo documento, rilasciato a seguito della denuncia
-   di nascita e prima del compimento del quindicesimo anno di età, sono
+   di nascita e prima del compimento dell'età prevista dalla legge per il
+   rilascio della *carta d'identità elettronica*, sono
    definite con decreto del Presidente del Consiglio dei Ministri, adottato su
    proposta del Ministro dell'interno, di concerto con il Ministro per la
    funzione pubblica, con il Ministro per l'innovazione e le tecnologie e con
@@ -41,15 +42,17 @@ Art. 66 - Carta d'identità elettronica e carta nazionale dei servizi
       secondo quanto previsto dalla normativa vigente.
  
 3. La *carta d'identità elettronica* e l'analogo documento, rilasciato a
-   seguito della denuncia di nascita e prima del compimento del quindicesimo
-   anno di età, devono contenere:
+   seguito della denuncia di nascita e prima del compimento dell'età prevista
+   dalla legge per il rilascio della *carta d'identità elettronica*, devono
+   contenere:
 
    a) i dati identificativi della persona;
    b) il codice fiscale.
 
 4. La *carta d'identità elettronica* e l'analogo documento, rilasciato a
-   seguito della denuncia di nascita e prima del compimento del quindicesimo
-   anno di età, possono contenere, a richiesta dell'interessato ove si tratti
+   seguito della denuncia di nascita e prima del compimento dell'età prevista
+   dalla legge per il rilascio della *carta d'identità elettronica*, possono
+   contenere, a richiesta dell'interessato ove si tratti
    di dati sensibili:
  
    a) l'indicazione del gruppo sanguigno;
