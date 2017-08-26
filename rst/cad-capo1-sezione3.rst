@@ -71,6 +71,8 @@ Art. 13 - Formazione informatica dei dipendenti pubblici
    anche politiche di formazione del personale finalizzate alla conoscenza e
    all'uso delle tecnologie dell'informazione e della comunicazione.
 
+.. _art14:
+
 Art. 14 - Rapporti tra Stato, Regioni e autonomie locali
 ........................................................
 
