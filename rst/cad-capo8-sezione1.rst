@@ -30,6 +30,8 @@ Art. 72 - Definizioni relative al sistema pubblico di connettività
       per garantire l'integrazione dei metadati, delle informazioni e dei
       procedimenti amministrativi. 
 
+.. _art73:
+
 Art. 73 - Sistema pubblico di connettività (SPC) 
 ................................................
 
